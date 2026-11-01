@@ -1,3 +1,5 @@
+// No longer used
+
 class WeaponConfigRules extends GameRules;
 
 var MutWeaponConfig Config;
